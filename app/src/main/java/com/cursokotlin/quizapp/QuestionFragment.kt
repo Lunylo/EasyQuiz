@@ -22,7 +22,7 @@ import com.cursokotlin.quizapp.ui.answer.AnswerViewHolder
 
 
 class QuestionFragment : Fragment() {
-
+//creando la autenticacion
     private var _binding:FragmentQuestionBinding? = null
     private val binding get() = _binding!!
 
