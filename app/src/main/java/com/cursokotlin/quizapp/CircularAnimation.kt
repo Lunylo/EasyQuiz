@@ -6,6 +6,7 @@ import android.widget.ProgressBar
 
 
 class CircularAnimation(
+    //circulo
     private val progressBar: ProgressBar,
     private val from: Int = 0,
     private val to: Int
