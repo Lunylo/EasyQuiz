@@ -4,6 +4,7 @@ class QuestionProvider {
     companion object {
         fun getQuestions(): List<QuestionData> {
 
+            //quiero comprita
             return listOf(
                 QuestionData(
                     header = "https://hipertextual.com/files/2019/06/hipertextual-kotlin-lenguaje-oficial-android-que-quiere-comerse-java-2019922347.jpg",
