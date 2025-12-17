@@ -68,3 +68,8 @@ class QuestionProvider {
         }
     }//no debe dar conflicto
 }
+
+fun ejemplo2(){
+
+    
+}
