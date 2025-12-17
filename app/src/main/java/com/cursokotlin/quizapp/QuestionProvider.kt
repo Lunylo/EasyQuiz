@@ -66,8 +66,3 @@ class QuestionProvider {
         }
     }
 }
-
-fun compra(){
-
-    print("hola")
-}
