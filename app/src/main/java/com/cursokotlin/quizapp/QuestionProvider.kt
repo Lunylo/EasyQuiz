@@ -1,5 +1,7 @@
 package com.cursokotlin.quizapp
-
+fun ejemplo(){
+    
+}
 class QuestionProvider {
     companion object {
         fun getQuestions(): List<QuestionData> {
